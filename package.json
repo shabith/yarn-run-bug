@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cowsay 'is it working??'"
+    "hello": "cowsay 'is it working??'"
   },
   "author": "",
   "license": "ISC",
